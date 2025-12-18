@@ -12,7 +12,7 @@ export default function Home() {
   const stats = getStats();
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen ">
       {/* Hero Section */}
       <section className="relative overflow-hidden py-20 md:py-32">
         <div className="absolute inset-0 gradient-primary opacity-10"></div>
