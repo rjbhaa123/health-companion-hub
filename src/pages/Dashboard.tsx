@@ -355,6 +355,7 @@ export default function Dashboard() {
           </CardContent>
         </Card>
       </div>
+      <footer className='h-100px'><div className='w-full h-100px flex items-center justify-center'> Made by Rimonjit Saikia</div></footer>
     </div>
   );
 }

@@ -138,6 +138,7 @@ export default function Home() {
           </div>
         </section>
       )}
+      <footer><div className='w-full h-50px flex items-center justify-center'> Made by Rimonjit Saikia</div></footer>
     </div>
   );
 }

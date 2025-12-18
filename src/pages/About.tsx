@@ -95,7 +95,7 @@ export default function About() {
           <p className="text-muted-foreground mb-2">
             Have questions or feedback? We'd love to hear from you.
           </p>
-          <p className="text-primary font-medium">contact@healthtrack.app</p>
+          <p className="text-primary font-medium"><a href="mailto:rimonjitsaikia03@gmail.com">rimonjitsaikia03@gmail.com</a></p>
         </div>
       </div>
     </div>

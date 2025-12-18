@@ -137,15 +137,7 @@ export default function Resources() {
       </section>
 
       {/* Disclaimer */}
-      <Card className="mt-12 bg-muted/50">
-        <CardContent className="pt-6">
-          <p className="text-sm text-muted-foreground text-center">
-            <strong>Disclaimer:</strong> The information provided here is for educational purposes only 
-            and should not replace professional medical advice. Always consult with a healthcare provider 
-            before starting any new exercise or diet program.
-          </p>
-        </CardContent>
-      </Card>
+      
     </div>
   );
 }

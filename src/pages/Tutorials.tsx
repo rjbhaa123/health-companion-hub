@@ -112,15 +112,7 @@ export default function Tutorials() {
         </div>
       </div>
 
-      {/* Disclaimer */}
-      <Card className="mt-12 bg-muted/50">
-        <CardContent className="pt-6">
-          <p className="text-sm text-muted-foreground text-center">
-            <strong>Note:</strong> These are placeholder videos for demonstration purposes. 
-            In a production app, you would embed real workout videos from YouTube or your own video hosting service.
-          </p>
-        </CardContent>
-      </Card>
+      
     </div>
   );
 }
