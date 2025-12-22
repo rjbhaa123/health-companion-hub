@@ -31,7 +31,7 @@ export function Navbar() {
       <div className="container flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-2 font-display text-xl font-bold text-primary">
           <Activity className="h-6 w-6" />
-          <span>HealthTrack</span>
+          <span>Health4U</span>
         </Link>
 
         {/* Desktop Navigation */}
